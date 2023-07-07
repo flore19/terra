@@ -1,0 +1,6 @@
+my_region      = "us-east-2"
+profile        = "default"
+topic_name     = "sns-dev"
+endpoint       = "florenzeute@yahoo.fr"
+protocole_type = "email"
+team           = "dev"
